@@ -49,6 +49,7 @@ PyTorch (Neural Network Library):pip install torch==2.0.1
 
 Execution:
 Execute the Human Interaction game: python human1.py
+
 Execute the AI agent game : python agent.py
 
 
