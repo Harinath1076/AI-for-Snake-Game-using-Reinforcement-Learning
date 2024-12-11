@@ -30,3 +30,22 @@ Deep Q-Network (DQN):
 
 Combines Q-learning with a neural network to approximate Q-values for high-dimensional state spaces.
 Leverages techniques like experience replay (storing past experiences) and target networks for stability.
+
+## Features
+- Fully functional Snake game environment built using PyGame.
+- AI agent trained using DQN for dynamic decision-making.
+- Visualization of performance metrics (scores, rewards) using Matplotlib.
+
+Install Each Dependency Individually (If Needed)
+python --version(download any version of 3.6 and above)
+
+PyGame (Game Environment): pip install pygame==2.6.0
+
+Numpy (Numerical Operations):pip install numpy==1.23.5
+
+Matplotlib (Visualization): pip install matplotlib==3.7.1
+
+PyTorch (Neural Network Library):pip install torch==2.0.1
+
+
+
