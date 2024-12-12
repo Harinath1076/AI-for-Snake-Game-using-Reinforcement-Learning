@@ -39,17 +39,19 @@ Leverages techniques like experience replay (storing past experiences) and targe
 Install Each Dependency Individually (If Needed)
 python --version(download any version of 3.6 and above)
 
-PyGame (Game Environment): pip install pygame==2.6.0
+PyGame (Game Environment): pip install pygame
 
-Numpy (Numerical Operations):pip install numpy==1.23.5
+Numpy (Numerical Operations):pip install numpy
 
-Matplotlib (Visualization): pip install matplotlib==3.7.1
+Matplotlib (Visualization): pip install matplotlib
 
-PyTorch (Neural Network Library):pip install torch==2.0.1
+PyTorch (Neural Network Library):pip install torch
 
 Execution:
+
 Execute the Human Interaction game: python human1.py
 
-Execute the AI agent game : python agent.py
+Execute the AI agent game : python agent.py 
 
+Let's compare both games to conclude how a human-interaction game differs from an AI-agent game
 
